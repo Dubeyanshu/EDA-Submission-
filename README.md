@@ -1,2 +1,2 @@
-# EDA-Submission-
+# EDA-Submission
 Airbnab booking analysis
